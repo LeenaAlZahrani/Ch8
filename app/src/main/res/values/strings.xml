@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Ch8</string>
+    <string name="imgSail">Sailing image</string>
+    <string name="txtTitle">Sailing Adventures in hawai</string>
+    <string name="bttnDate">Choose Date</string>
+    <string name="txtDesc">A long text about describing</string>
+</resources>
